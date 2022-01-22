@@ -1,0 +1,9 @@
+{
+    "name": "Todo App",
+    "short_name": "Todo App",
+    "theme_color": "#feeeee",
+    "background_color": "#feeeee",
+    "display": "fullscreen",
+    "scope": "/",
+    "start_url": "/"
+  }
